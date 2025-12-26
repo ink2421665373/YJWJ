@@ -24,3 +24,4 @@
 
 1. 查询除最近 10 场比赛之外的比赛数据
 2. 从未绑定小黑盒的账号战绩查询
+代码来自https://github.com/chinatsu1124/Naraka_Search_Tool#的二次开发
